@@ -1,0 +1,4 @@
+#Wed Oct 17 15:38:18 IST 2018
+base.0=/Users/WONINDIA/Documents/reactNativeDesign/Cluster/android/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

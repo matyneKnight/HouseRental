@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>011909C0-5955-4587-B565-5B6E1B1CDA2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>011909C0-5955-4587-B565-5B6E1B1CDA2A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cluster project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cluster</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561725240.98291397</real>
+			<key>timeStoppedRecording</key>
+			<real>561725250.92156601</real>
+			<key>title</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>011909C0-5955-4587-B565-5B6E1B1CDA2A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0766DDDD-0BB8-4A89-B4D1-DC8B22C03ECF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0766DDDD-0BB8-4A89-B4D1-DC8B22C03ECF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cluster project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cluster</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561675916.85845101</real>
+			<key>timeStoppedRecording</key>
+			<real>561675925.02168703</real>
+			<key>title</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0766DDDD-0BB8-4A89-B4D1-DC8B22C03ECF</string>
+		</dict>
+		<key>E89B0910-B59E-46E2-986B-1A625FF79F0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E89B0910-B59E-46E2-986B-1A625FF79F0D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Cluster project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Cluster</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561676660.84761906</real>
+			<key>timeStoppedRecording</key>
+			<real>561676667.10725999</real>
+			<key>title</key>
+			<string>Building project Cluster with scheme Cluster and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E89B0910-B59E-46E2-986B-1A625FF79F0D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

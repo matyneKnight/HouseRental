@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Administrateur\Downloads\Compressed\House-on-Rent-Demo-master_2\House-on-Rent-Demo-master\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24
+-keep class com.cluster.MainApplication { <init>(...); }
